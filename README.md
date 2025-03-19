@@ -1,21 +1,21 @@
-#Proyecto en JavaScript
+# Proyecto en JavaScript
 
-##Tecnologías utilizadas
+## Tecnologías utilizadas
 
 Node.js
 Express
 
-##Instalación
+## Instalación
 
 Clonar el repositorio:
 
 `git clone https://github.com/tatymediina/simple-web-javascript`
 
-##Navegar al directorio del proyecto:
+## Navegar al directorio del proyecto:
 
 `cd simple-web-javacript`
 
-##Instalar las dependencias:
+## Instalar las dependencias:
 
 `npm install`
 
